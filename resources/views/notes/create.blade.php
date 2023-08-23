@@ -5,7 +5,7 @@
 <div class="row">
     <div class="col-lg-12 margin-tb">
         <div class="pull-left">
-            <h2><strong>Add New Note</strong></h2>
+            <h2><strong>Add TASKS</strong></h2>
             <br>
         </div>
         <div class="pull-right">

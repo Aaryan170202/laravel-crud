@@ -4,11 +4,11 @@
     <div class="row">
         <div class="col-lg-12">
             <div class="pull-left" >
-                <h2><strong>Personal Notes Manager</strong></h2>
+                <h2><strong>TODO LIST</strong></h2>
                 <br>
             </div>
             <div class="pull-right">
-                <a class="btn btn-success" href="{{ route('notes.create') }}"> Create New Notes</a>
+                <a class="btn btn-success" href="{{ route('notes.create') }}"> Create New Task</a>
             </div>
         </div>
     </div>
@@ -21,9 +21,9 @@
 
     <table class="table table-bordered">
         <tr>
-            <th>ID</th>
-            <th>TITLE</th>
-            <th>CONTENT</th>
+            <th>NO</th>
+            <th>NAME</th>
+            <th>DETAILS</th>
             <th width="280px">Action</th>
         </tr>
         @foreach ($notes as $note)

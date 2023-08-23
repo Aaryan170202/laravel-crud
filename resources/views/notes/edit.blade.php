@@ -4,7 +4,7 @@
     <div class="row">
         <div class="col-lg-12 margin-tb">
             <div class="pull-left">
-                <h2><strong>Edit Note</strong></h2>
+                <h2><strong>Edit Task</strong></h2>
                 <br>
             </div>
             <div class="pull-right">
